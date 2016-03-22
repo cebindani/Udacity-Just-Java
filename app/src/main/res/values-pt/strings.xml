@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name">Nome</string>
+    <string name="order">Pedir</string>
+    <string name="order_summary">Resumo do pedido</string>
+    <string name="thank_you">Obrigada!</string>
+    <string name="toppings">Coberturas</string>
+    <string name="whipped_cream">Chantily</string>
+    <string name="quantity">Quantidade</string>
+    <string name="email_title">Just Java pedido para <xliff:g id="personWhoOrdered">%s</xliff:g></string>
+    <string name="order_summary_chocolate">Adicionar chocolate? <xliff:g example="true" id="addChocolate">%b</xliff:g></string>
+    <string name="order_summary_cream">Adicionar chantily? <xliff:g id="addWhippedCream">%b</xliff:g></string>
+    <string name="order_summary_name">Nome: <xliff:g id="personWhoOrdered">%s</xliff:g></string>
+    <string name="order_summary_quantity">Quantidade <xliff:g id="quantity">%d</xliff:g></string>
+    <string name="order_summary_total">"Total: " <xliff:g id="" price="null">%s</xliff:g></string>
+</resources>
