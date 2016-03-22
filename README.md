@@ -1,2 +1,3 @@
-# Udacity-Just-Java
-Udacity Android for begginers JustJava sample app
+# Udacity: Just Java
+Udacity Android for Beginners JustJava sample app
+https://udacity.com/courses/ud837/
